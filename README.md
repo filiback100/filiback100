@@ -1,16 +1,39 @@
-### Hi there 👋
+<h1>Hi, I'm Filip! <br/><a href="https://github.com/filiback100">Home</a>, <a href="https://www.linkedin.com/in/filip-b%C3%A4cklund-9751bb169/">Linkedin </a> </h1>
 
-<!--
-**filiback100/filiback100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻Web Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Im a student at Karlstad University where i major in informatics, web development. Here is some of my projects from school</b>
+  - [Lägg till projekt här](#)
+- <b> Landing page built with (HTML, CSS, Javascript, React)</b>
+  - [FDev](#) 
+- <b>Javascript projects</b>
+  - [project 1]
+  - [project 2]
+  - [project 3]
+  - [project 4]
+- <b>Web Design (HTML, CSS, BootStrap, Tailwind)</b>
+   - [project 1]
+  - [project 2]
+  - [project 3]
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br> 
+
+[linkedin]: https://www.linkedin.com/in/filip-b%C3%A4cklund-9751bb169/
+
+
+
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Javascript 
+- 📫 How to reach me: Email @filipbacklund96@gmail.com
+- 😄 Pronouns: he/him
+
