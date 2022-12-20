@@ -23,14 +23,14 @@
 
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Filip Bäcklund" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br> 
 
 [linkedin]: https://www.linkedin.com/in/filip-b%C3%A4cklund-9751bb169/
 
 
 
+<br> 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Javascript 
