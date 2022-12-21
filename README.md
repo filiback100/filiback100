@@ -7,8 +7,8 @@
 - <b> Landing page built with (HTML, CSS, Javascript, React)</b>
   - [FDev](#) 
 - <b>Javascript projects</b>
-  - [project 1]
-  - [project 2] <br> 
+  - [project 1]  <br> 
+ [Random number generator](https://github.com/filiback100/random-number-generator-) <br> 
  [Simple calculator](https://github.com/filiback100/Calculator-)
   - [project 4]
 - <b>Web Design (HTML, CSS, BootStrap, Tailwind)</br>
