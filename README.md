@@ -8,8 +8,8 @@
   - [FDev](#) 
 - <b>Javascript projects</b>
   - [project 1]
-  - [project 2]
-  - [project 3]
+  - [project 2] <br> 
+ [Simple calculator](https://github.com/filiback100/Calculator-)
   - [project 4]
 - <b>Web Design (HTML, CSS, BootStrap, Tailwind)</br>
   [Art webpage with floating picture and dropdown menu](https://github.com/filiback100/Art-site-)
