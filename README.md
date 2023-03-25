@@ -3,11 +3,11 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Im a student at Karlstad University where i major in information systems - web development and system design.</b>
-  - [Lägg till projekt här](#)
+ 
 - <b> Landing page built with (HTML, CSS, Javascript, React)</b>
   - [FBDev](https://filiback100.github.io/landingPage/) 
 - <b>Javascript projects</b>
-  - [project 1]  <br> 
+ 
 
 
 <h2> 🤳 Connect with me:</h2>
