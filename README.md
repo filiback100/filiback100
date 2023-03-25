@@ -4,7 +4,7 @@
 
 - <b>Im a student at Karlstad University where i major in information systems - web development and system design.</b>
  
-- <b> Landing page built with (HTML, CSS, Javascript, React)</b>
+- <b> Landing page built with (HTML, CSS, Javascript)</b>
   - [FBDev](https://filiback100.github.io/landingPage/) 
 
  
