@@ -6,7 +6,7 @@
  
 - <b> Landing page built with (HTML, CSS, Javascript, React)</b>
   - [FBDev](https://filiback100.github.io/landingPage/) 
-- <b>Javascript projects</b>
+
  
 
 
